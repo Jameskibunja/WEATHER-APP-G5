@@ -1,7 +1,10 @@
 import React, { useState } from 'react';
 import { Link, Route } from 'react-router-dom';
 import './App.css';
-import data from './data.json';function App() {
+import data from './data.json';
+
+
+function App() {
   const [drawerOpen, setDrawerOpen] = useState(false);  function toggleDrawer() {
     setDrawerOpen(!drawerOpen);
   }  return (
