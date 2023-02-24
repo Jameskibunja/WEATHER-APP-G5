@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+<h1><strong>WEATHER APP</strong></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2><strong>PROJECT DESCRIPTION</strong></h2>
 
-## Available Scripts
+<p><span style="font-size:16px">Weather-Mood is a weather app that goes beyond just giving you the temperature and precipitation forecast for the day. It helps you plan your day based on how the weather affects your mood. Whether you&#39;re feeling happy, productive, lazy, or adventurous, Weather-Mood suggests activities that are appropriate for your mood and the weather conditions.</span></p>
 
-In the project directory, you can run:
+<h2><strong>The Technology used :</strong></h2>
 
-### `npm start`
+<p>● HTML</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>● CSS</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p>● JAVASCRIPT</p>
 
-### `npm test`
+<p>● REACT</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>FEATURES</h2>
 
-### `npm run build`
+<p>● Real-time weather updates: Weather-Mood provides accurate weather information for your current location or any location you choose.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>● Mood-based suggestions: WeatherMood offers activity recommendations based on your mood and the weather. For example, if you&#39;re feeling energetic on a sunny day, it might suggest going for a hike or playing outdoor sports.</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>● Personalized profiles: Weather-Mood lets you create a personalized profile where you can track your moods and the activities you enjoy doing on different weather days.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>● Social sharing: You can share your mood and the activities you&#39;re planning to do with your friends and family on social media.</p>
 
-### `npm run eject`
+<h2>Authors</h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<ul>
+	<li><a href="https://github.com/petersamson-kingori" target="_blank">Peter Kingori</a></li>
+	<li><a href="https://github.com/joycenjoroge" target="_blank">Joyce Njoroge</a></li>
+	<li><a href="https://github.com/Gregg7878" target="_blank">Gregg Ochieng</a></li>
+	<li><a href="https://github.com/izazu" target="_blank">Isaiah Sikobe</a></li>
+	<li><a href="https://github.com/Jameskibunja" target="_blank">James Kibunja</a></li>
+</ul>
