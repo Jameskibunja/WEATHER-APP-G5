@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .navbar__logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .navbar__menu {
+    display: flex;
+  }
+  
+  .navbar__menu-item {
+    margin-right: 20px;
+  }
+  
+  .navbar__menu-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar__menu-link:hover {
+    color: #ccc;
+  }
+  
