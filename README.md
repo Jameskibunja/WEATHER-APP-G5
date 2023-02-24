@@ -33,3 +33,9 @@
 	<li><a href="https://github.com/izazu" target="_blank">Isaiah Sikobe</a></li>
 	<li><a href="https://github.com/Jameskibunja" target="_blank">James Kibunja</a></li>
 </ul>
+
+<h2>License</h2>
+
+<p>Copyright &copy;&nbsp;<a href="https://github.com/Jameskibunja/Weather-App-G5">Authors</a>. All rights reserved.</p>
+
+
