@@ -1,0 +1,10 @@
+{
+  "activities": [
+    { "id": 1, "name": "Go for a hike", "weatherType": "Clear" },
+    { "id": 2, "name": "Go to the beach", "weatherType": "Clear" },
+    { "id": 3, "name": "Go skiing", "weatherType": "Snow" },
+    { "id": 4, "name": "Go ice skating", "weatherType": "Snow" },
+    { "id": 5, "name": "Go to the movies", "weatherType": "Rain" },
+    { "id": 6, "name": "Play board games", "weatherType": "Rain" }
+  ]
+}

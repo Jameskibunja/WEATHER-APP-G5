@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.grid {
+    background-image: url('https://www.teahub.io/photos/full/2-27230_clouds-background-hd-sky-hd-images-png.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-rows: 1fr 1fr; /* two rows of equal size */
+    grid-template-columns: 1fr; /* one column */
+    gap: 1rem; /* gap between grid items */
+  }
+  
+  .grid > * {
+    /* set equal height for all grid items */
+    height: 100%;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, calc(50vh - 5px));
+    gap: 10px;
+    height: 100vh; 
+  }  
+
+  .share-container {
+    background-color: #c9c9c9;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+  }
