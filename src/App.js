@@ -1,7 +1,7 @@
 import React from "react";
 import ActivityList from "./ActivityList";
 import './App.css';
-import Navigation from "./Navigation";
+// import Navigation from "./Navigation";
  import SavedActivity from './SavedActivity';
 import Share from "./Share";
 import Weather from './Weather'
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <div className="Navigation">
-       <Navigation />
+       {/* <Navigation /> */}
        <Clock />
       </div>
       <div className='grid'>
