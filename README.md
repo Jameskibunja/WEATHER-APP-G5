@@ -24,6 +24,34 @@
 
 <p>● Social sharing: You can share your mood and the activities you&#39;re planning to do with your friends and family on social media.</p>
 
+<h2>API</h2>
+
+<h3>Activity Task</h3>
+
+<pre>
+[
+  {
+    &quot;id&quot;: 1,
+    &quot;title&quot;: &quot;Go for a hike&quot;
+  },
+  {
+    &quot;id&quot;: 2,
+    &quot;title&quot;: &quot;Go to the beach&quot;
+  },
+  {
+    &quot;id&quot;: 3,
+    &quot;title&quot;: &quot;Go skiing&quot;
+  },
+  {
+    &quot;id&quot;: 4,
+    &quot;title&quot;: &quot;Go ice skating&quot;
+  }
+]</pre>
+
+<h3>Weather Feature&nbsp;</h3>
+
+<p>&nbsp;https://api.openweathermap.org</p>
+
 <h2>LINK To Live Site</h2>
 
 <p><a href="https://jameskibunja.github.io/Weather-App-G5/" target="_blank">Click Me</a></p>
