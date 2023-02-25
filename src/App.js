@@ -5,6 +5,7 @@ import Navigation from "./Navigation";
  import SavedActivity from './SavedActivity';
 import Share from "./Share";
 import Weather from './Weather'
+import Clock from './Clock'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <div className="App">
       <div className="Navigation">
        <Navigation />
+       <Clock />
       </div>
       <div className='grid'>
       <Weather />
