@@ -24,6 +24,10 @@
 
 <p>● Social sharing: You can share your mood and the activities you&#39;re planning to do with your friends and family on social media.</p>
 
+<h2>LINK To Live Site</h2>
+
+<p><a href="https://jameskibunja.github.io/Weather-App-G5/" target="_blank">Click Me</a></p>
+
 <h2>Authors</h2>
 
 <ul>
@@ -36,6 +40,6 @@
 
 <h2>License</h2>
 
-<p>Copyright &copy;&nbsp;<a href="https://github.com/Jameskibunja/Weather-App-G5">Authors</a>. All rights reserved.</p>
+<p>Copyright &copy;&nbsp;<a href="https://github.com/mashm3ll0w/canopy-caffe/blob/dev/README.md#authors">Authors</a>. All rights reserved.</p>
 
-
+<p>This software is licensed under the&nbsp;<a href="https://github.com/mashm3ll0w/canopy-caffe/blob/master/LICENSE.md">MIT</a>&nbsp;License</p>
